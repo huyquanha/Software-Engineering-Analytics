@@ -1,0 +1,21 @@
+0	Debug
+1	Release
+2	Development
+3	DLL-Import Release
+4	Release with CouchDb
+5	Debug with CouchDb
+6	ReleaseWithCouchDb
+7	DebugWithCouchDb
+8	QA
+9	release
+10	DebugNet45
+11	staging
+12	produccion
+13	Debug-Any-CPU
+14	Debug_All
+15	Debug_IHE
+16	Staging
+17	Live
+18	CodeAnalysis
+19	test_int
+20	Local.Debug

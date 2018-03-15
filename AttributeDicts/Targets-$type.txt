@@ -1,0 +1,1 @@
+0	KaVE.Commons.Model.Events.VisualStudio.BuildTarget, KaVE.Commons

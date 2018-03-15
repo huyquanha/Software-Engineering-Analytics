@@ -1,0 +1,10 @@
+0	Any CPU
+1	x64
+2	x86
+3	<N/A>
+4	Win32
+5	ARM
+6	Android
+7	Windows Phone 8
+8	iPhone
+9	iPhoneSimulator

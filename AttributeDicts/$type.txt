@@ -1,0 +1,16 @@
+0	KaVE.Commons.Model.Events.VersionControlEvents.VersionControlEvent, KaVE.Commons
+1	KaVE.Commons.Model.Events.ActivityEvent, KaVE.Commons
+2	KaVE.Commons.Model.Events.VisualStudio.IDEStateEvent, KaVE.Commons
+3	KaVE.Commons.Model.Events.VisualStudio.SolutionEvent, KaVE.Commons
+4	KaVE.Commons.Model.Events.VisualStudio.EditEvent, KaVE.Commons
+5	KaVE.Commons.Model.Events.CommandEvent, KaVE.Commons
+6	KaVE.Commons.Model.Events.VisualStudio.DocumentEvent, KaVE.Commons
+7	KaVE.Commons.Model.Events.VisualStudio.WindowEvent, KaVE.Commons
+8	KaVE.Commons.Model.Events.VisualStudio.BuildEvent, KaVE.Commons
+9	KaVE.Commons.Model.Events.NavigationEvent, KaVE.Commons
+10	KaVE.Commons.Model.Events.CompletionEvents.CompletionEvent, KaVE.Commons
+11	KaVE.Commons.Model.Events.VisualStudio.DebuggerEvent, KaVE.Commons
+12	KaVE.Commons.Model.Events.UserProfiles.UserProfileEvent, KaVE.Commons
+13	KaVE.Commons.Model.Events.SystemEvent, KaVE.Commons
+14	KaVE.Commons.Model.Events.TestRunEvents.TestRunEvent, KaVE.Commons
+15	KaVE.Commons.Model.Events.VisualStudio.FindEvent, KaVE.Commons

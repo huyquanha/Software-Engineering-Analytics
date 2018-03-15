@@ -1,0 +1,4 @@
+0	0
+1	vsBuildScopeSolution
+2	vsBuildScopeProject
+3	vsBuildScopeBatch

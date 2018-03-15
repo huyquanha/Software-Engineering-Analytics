@@ -1,0 +1,1 @@
+0	KaVE.Commons.Model.Events.CompletionEvents.ProposalSelection, KaVE.Commons

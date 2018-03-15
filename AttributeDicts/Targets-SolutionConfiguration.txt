@@ -1,0 +1,33 @@
+0	Debug|Mixed Platforms
+1	Debug|Any CPU
+2	Release|Mixed Platforms
+3	Development|Default
+4	Release|Any CPU
+5	Debug|Win32
+6	DLL-Import Release|x64
+7	Release with CouchDb|Any CPU
+8	Debug with CouchDb|Any CPU
+9	Release with CouchDb|Mixed Platforms
+10	Debug with CouchDb|Mixed Platforms
+11	Debug|x86
+12	Debug|x64
+13	QA|Any CPU
+14	Debug|ARM
+15	Debug|Android
+16	Debug|Windows Phone 8
+17	DebugNet45|Any CPU
+18	Release|x86
+19	Debug BoardPad|iPhone
+20	Debug BoardPad|iPhoneSimulator
+21	Debug|iPhone
+22	Release|x64
+23	staging|Any CPU
+24	produccion|Any CPU
+25	Debug XBAP|Any CPU
+26	Debug_IHE|Mixed Platforms
+27	Staging|Any CPU
+28	Live|Any CPU
+29	CodeAnalysis|Any CPU
+30	Local.Debug|Any CPU
+31	Debug iOSv2|iPhone
+32	Debug iOSv3|iPhone

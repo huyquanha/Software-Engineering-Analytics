@@ -1,0 +1,177 @@
+0	dbgEventReasonLaunchProgram
+1	dbgEventReasonBreakpoint
+2	dbgEventReasonStep
+3	dbgEventReasonStopDebugging
+4	dbgEventReasonAttachProgram
+5	dbgEventReasonUserBreak
+6	dbgEventReasonGo
+7	dbgEventReasonNone
+8	14
+9	dbgEventReasonEndProgram
+10	15
+11	System.OutOfMemoryException
+12	dbgEventReasonExceptionNotHandled
+13	JetBrains.Util.Assertion.AssertionException
+14	JetBrains.Threading.ThreadAccessException
+15	System.NotSupportedException
+16	System.NullReferenceException
+17	JetBrains.Application.Progress.ProcessCancelledException
+18	System.ExecutionEngineException
+19	System.IO.FileNotFoundException
+20	System.IO.IOException
+21	NUnit.Framework.AssertionException
+22	System.InvalidOperationException
+23	Ionic.Zip.ZipException
+24	System.ArgumentException
+25	System.ArgumentNullException
+26	System.Data.SqlClient.SqlException
+27	System.IO.DirectoryNotFoundException
+28	System.Data.DataException
+29	Microsoft.Data.Sqlite.SqliteException
+30	AutoMapper.AutoMapperMappingException
+31	Microsoft.EntityFrameworkCore.DbUpdateException
+32	System.InvalidCastException
+33	System.TypeInitializationException
+34	System.InvalidProgramException
+35	System.NotImplementedException
+36	dbgEventReasonExceptionThrown
+37	System.Exception
+38	0xC0000005
+39	EmbeddedBreakpoint
+40	System.Data.Entity.Infrastructure.DbUpdateException
+41	System.Data.Entity.Core.EntityCommandExecutionException
+42	System.Data.Entity.Core.MetadataException
+43	Castle.MicroKernel.ComponentNotFoundException
+44	System.Data.Entity.Core.EntityException
+45	System.StackOverflowException
+46	System.Runtime.InteropServices.COMException
+47	System.DivideByZeroException
+48	System.UriFormatException
+49	System.ArgumentOutOfRangeException
+50	System.FormatException
+51	DisconnectedContext
+52	Microsoft.CSharp.RuntimeBinder.RuntimeBinderException
+53	System.Windows.Markup.XamlParseException
+54	System.Reflection.TargetInvocationException
+55	System.IndexOutOfRangeException
+56	System.Configuration.ConfigurationErrorsException
+57	System.Data.Entity.Validation.DbEntityValidationException
+58	Microsoft.Practices.ServiceLocation.ActivationException
+59	RazorEngine.Templating.TemplateParsingException
+60	RazorEngine.Templating.TemplateCompilationException
+61	AutoMapper.AutoMapperConfigurationException
+62	System.MissingMethodException
+63	System.Reflection.TargetException
+64	ContextSwitchDeadlock
+65	System.Net.Mail.SmtpFailedRecipientException
+66	System.UnauthorizedAccessException
+67	System.ApplicationException
+68	System.Reflection.TargetParameterCountException
+69	0x800A139E
+70	System.Threading.ThreadAbortException
+71	System.ServiceModel.FaultException
+72	LoaderLock
+73	System.Collections.Generic.KeyNotFoundException
+74	ActionMailerNext.Standalone.TemplateResolvingException
+75	System.TypeLoadException
+76	System.IO.FileLoadException
+77	System.Web.HttpUnhandledException
+78	NUnit.Framework.SuccessException
+79	System.Net.WebException
+80	DevExpress.Xpo.Exceptions.SameTableNameException
+81	System.Web.Mvc.HttpAntiForgeryException
+82	System.Web.HttpCompileException
+83	Rhino.Licensing.LicenseExpiredException
+84	System.Web.HttpException
+85	ServiceStack.HttpError
+86	Moq.MockVerificationException
+87	Newtonsoft.Json.JsonReaderException
+88	Nib.Common.Core.Email.Exceptions.TemplateNotFoundException
+89	Moq.MockException
+90	Nib.Comms.Email.Endpoint.Exceptions.TemplateModelCouldNotBeMappedException
+91	Nib.Public.Web.Common.Infrastructure.FeatureValueInvalidException
+92	Newtonsoft.Json.JsonSerializationException
+93	System.Web.HttpParseException
+94	OpenQA.Selenium.WebDriverTimeoutException
+95	Nib.Products.Interface.Exceptions.RateNotFoundException
+96	Nib.Online.Common.Infrastructure.FeatureToggles.FeatureValueNotDefinedException
+97	Ninject.ActivationException
+98	Nib.Online.Join.Exceptions.InvalidPaymentDateException
+99	System.Net.Http.HttpRequestException
+100	System.ObjectDisposedException
+101	System.Data.Entity.Infrastructure.DbUpdateConcurrencyException
+102	Ploeh.AutoFixture.ObjectCreationException
+103	System.OverflowException
+104	System.Runtime.InteropServices.ExternalException
+105	System.Security.SecurityException
+106	Exception:
+
+System.InvalidOperationException: An attempt was made to transition a task to a final state when it had already completed.
+107	Exception:
+
+System.MissingMethodException: Default constructor not found for type BoardPad.AppLogic.DeviceAccountStateToBooleanConverter
+108	Exception:
+
+System.MissingMethodException: Default constructor not found for type BoardPad.IOS.Converters.BooleanToColour
+109	Exception:
+
+System.MissingMethodException: Default constructor not found for type BoardPad.IOS.Converters.BooleanNotConverterDecorator
+110	Exception:
+
+System.Net.WebException: The remote server returned an error: (500) Internal Server Error.
+111	Exception:
+
+System.ArgumentException: Must supply an active image
+Parameter name: activeImage
+112	Exception:
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+113	Unhandled Exception:
+
+System.ArgumentNullException: Value cannot be null.
+Parameter name: owner
+114	Unhandled Exception:
+
+System.Exception: Failed to marshal the Objective-C object 0x811253e0 (type: ActiveImageButton). Could not find an existing managed instance for this object, nor was it possible to create a new managed instance (because the type 'BoardPad.IOS.Styling.Controls.ActiveImageButton' does not have a constructor that takes one IntPtr argument).
+115	Unhandled Exception:
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+116	Exception:
+
+System.NullReferenceException: Object reference not set to an instance of an object
+117	Unhandled Exception:
+
+System.InvalidCastException: Specified cast is not valid.
+118	Unhandled Exception:
+
+System.Collections.Generic.KeyNotFoundException: Could not find view for BoardPad.AppLogic.ViewModels.Filtering.ReadingRoomFilteringViewModel
+119	Unhandled Exception:
+
+System.ArgumentException: A filter context must exist in the arguments
+Parameter name: args
+120	Unhandled Exception:
+
+BoardPad.AppLogic.Models.Navigation.PopupAlreadyActiveException: Existing popup already active. It must be dismissed before second can activate
+121	Autofac.Core.Registration.ComponentNotRegisteredException
+122	0xC0000094
+123	0xC0000409
+124	0x40010005
+125	WebAutomation.Core.WebAutomationUsageException
+126	WebAutomation.Core.TestAssertionException
+127	OpenQA.Selenium.WebDriverException
+128	QuaystoneV2.Notifications.Domain.Exceptions.ClientNameMustBeSet
+129	QuaystoneV2.Underwriting.Domain.Exceptions.NoInstalmentPlansAvailable
+130	System.AggregateException
+131	OpenQA.Selenium.ElementNotVisibleException
+132	System.Threading.ThreadStateException
+133	0x800A1391
+134	0x800A01B6
+135	System.Data.Odbc.OdbcException
+136	System.Security.Cryptography.CryptographicException
+137	System.Net.Sockets.SocketException
+138	CallbackFS.ECBFSError
+139	NAudio.MmException
+140	IIT.Api.Extensions.HttpResponseException
+141	Telerik.Web.UI.GridException
+142	0xC00001A5
+143	Microsoft.VisualStudio.TestTools.UnitTesting.AssertFailedException
